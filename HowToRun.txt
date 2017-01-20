@@ -1,0 +1,17 @@
+1.Compile
+In command line, change to project’s root directory, then type
+javac -classpath src -d run src/gui/Tour.java
+
+2. Run
+In command line, keep staying at root directory, then type
+java -classpath run gui.Tour
+
+3.Available Password
+	*****Manager*****
+	[ID]:admin1	
+	[password]123456
+	*****Driver*****
+	[ID] choose ONE number from 0 to 9
+	[password]123456 for all 9 drivers
+
+
